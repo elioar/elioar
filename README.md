@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @elioar
+- 👋 Hi, I’m @elio_ar_
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning JavaScript
 
