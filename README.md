@@ -10,9 +10,6 @@
 🛠️ Tech Stack:
 💻 JavaScript | Python | HTML | CSS
 🧡 React | Next.js | Flutter
-📦 Git | VS Code
-
-🌍 Exploring the digital universe one line of code at a time.
 
 🔍 Check out my projects below! 👇
 
