@@ -22,7 +22,6 @@
   <img src="https://raw.githubusercontent.com/elioar/elioar/main/assets/eliodev-pagespeed.svg" alt="eliodev.com PageSpeed Insights" width="480"/>
 </p>
 
-
 ---
 
 ### 🛠️ Tech Stack
@@ -60,10 +59,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=dark" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pr2tik1&theme=dark&hide_border=true" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elioar&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=elioar&theme=dark&hide_border=true" width="400">
 </p>
-
 
 ---
 
