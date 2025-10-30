@@ -16,14 +16,6 @@
 
 ---
 
-### ⚡ eliodev.com Performance Snapshot
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/elioar/elioar/main/assets/eliodev-pagespeed.svg" alt="eliodev.com PageSpeed Insights" width="480"/>
-</p>
-
----
-
 ### 🛠️ Tech Stack
 
 <p align="center">
