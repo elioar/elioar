@@ -61,15 +61,16 @@
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=elioar&theme=radical&hide_border=true" 
-    alt="Elio's GitHub Streak" 
+    src="https://streak-stats.demolab.com?user=elioar&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak" 
   />
   <br/>
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=elioar&layout=compact&title_color=a855f7&text_color=ffffff&bg_color=1c1917&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=elioar&layout=compact&theme=tokyonight&hide_border=true" 
     alt="Top Languages" 
   />
 </p>
+
 
 ---
 
