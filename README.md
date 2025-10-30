@@ -61,7 +61,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=elioar&theme=radical&hide_border=true" alt="GitHub Streak"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=elioar&theme=dark&hide_border=true" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elioar&layout=compact&title_color=a855f7&text_color=ffffff&bg_color=1c1917&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
