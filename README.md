@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=200&section=header&text=Elio%20Dev&fontSize=50&fontColor=ffffff"/>
+</p>
 <h1 align="center">Hi 👋 I'm Elio Dev</h1>
 
 <p align="center">
@@ -60,6 +63,12 @@ Full Stack Developer • AI Builder • SaaS Creator
 <img src="https://streak-stats.demolab.com?user=elioar&theme=radical&hide_border=true"/>
 
 </p>
+
+---
+
+## 📈 GitHub Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=elioar&theme=react-dark&hide_border=true"/>
 
 ---
 
