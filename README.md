@@ -1,25 +1,21 @@
-<h1 align="center">Hi 👋, I'm Elio Dev</h1>
-<h3 align="center">💻 Full Stack Developer • AI Builder • Based in Greece 🇬🇷</h3>
+<h1 align="center">Hi 👋 I'm Elio Dev</h1>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="120"/>
+Full Stack Developer • AI Builder • SaaS Creator
 </p>
 
 <p align="center">
-<a href="https://eliodev.com">🌐 Portfolio</a> •
-<a href="mailto:elio.developer02@gmail.com">✉️ Email</a> •
-<a href="https://www.linkedin.com/in/elio-arapi">LinkedIn</a> •
-<a href="https://github.com/elioar">GitHub</a>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&duration=3000&color=A855F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+%2B+AI+Builder;Building+SaaS+Products;Always+Learning+New+Tech" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🧠 About Me
 
-- 💻 Full Stack Developer  
-- ⚡ Building **Web Apps, SaaS & AI Tools**  
-- 🧠 Currently learning **React & AI integrations**  
-- 🌍 Based in **Greece**
+💻 Full Stack Developer  
+🚀 Building SaaS & AI powered applications  
+⚡ Love building fast modern web apps  
+🌍 Based in Greece  
 
 ---
 
@@ -37,24 +33,20 @@
 
 <p align="center">
 
-<a href="https://codepen.io/elioar">
-<img src="https://skillicons.dev/icons?i=codepen" width="40"/>
+<a href="https://eliodev.com">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel">
 </a>
 
-<a href="https://github.com/elioar">
-<img src="https://skillicons.dev/icons?i=github" width="40"/>
+<a href="mailto:elio.developer02@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
 </a>
 
 <a href="https://www.linkedin.com/in/elio-arapi">
-<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="https://www.instagram.com/elio.dev">
-<img src="https://skillicons.dev/icons?i=instagram" width="40"/>
-</a>
-
-<a href="https://x.com/elio_dev">
-<img src="https://skillicons.dev/icons?i=twitter" width="40"/>
+<a href="https://github.com/elioar">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
 </a>
 
 </p>
@@ -75,8 +67,14 @@
 
 ---
 
+# 🐍 Contribution Snake
+
 <p align="center">
 
-<i>"Code. Create. Improve. Repeat." ⚡</i>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
 </p>
+
+---
+
+# ⚡ Fun Fact
