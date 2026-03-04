@@ -57,10 +57,6 @@ Full Stack Developer • AI Builder • SaaS Creator
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=elioar&show_icons=true&theme=radical&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elioar&layout=compact&theme=radical&hide_border=true"/>
-
 <img src="https://streak-stats.demolab.com?user=elioar&theme=radical&hide_border=true"/>
 
 </p>
@@ -77,4 +73,8 @@ Full Stack Developer • AI Builder • SaaS Creator
 
 ---
 
-# ⚡ Fun Fact
+<p align="center">
+
+<i>"Code. Create. Improve. Repeat." ⚡</i>
+
+</p>
