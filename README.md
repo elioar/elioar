@@ -33,7 +33,7 @@
 <a href="https://www.linkedin.com/in/elio-arapi"><img src="https://skillicons.dev/icons?i=linkedin" width="38" alt="LinkedIn"/></a>
 <a href="https://www.instagram.com/elio.dev"><img src="https://skillicons.dev/icons?i=instagram" width="38" alt="Instagram"/></a>
 <a href="https://x.com/elio_dev"><img src="https://skillicons.dev/icons?i=twitter" width="38" alt="Twitter"/></a>
-<a href="https://www.threads.net/@elio.dev"><img src="https://cdn.simpleicons.org/threads/black" width="38" alt="Threads"/></a>
+<a href="https://www.threads.net/@elio.dev"><img src="https://github.com/user-attachments/assets/e8923d70-dcfd-4405-813f-56a3dd7fa09b" width="38" alt="Threads"/></a>
 
 ---
 
